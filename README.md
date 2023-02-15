@@ -18,7 +18,7 @@ http://medium.com/@Snowmanzzz
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzz6519003&hide=JavaScript,css,Objective-C,html,m,c#,css,JavaScript,ruby&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzz6519003&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50&hide=JavaScript,css,Objective-C,html,m,c#,css,JavaScript,ruby "/>
 
 ### Friend Link
 
