@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zzz6519003&show_icons=true&include_all_commits=true&hide_border=true&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
 
 
-Blog List
+Link List
 ====
 
 See the [issues](https://github.com/zzz6519003/blog/issues?state=open) under [`blog` label](https://github.com/zzz6519003/blog/labels/blog)
@@ -16,13 +16,18 @@ http://medium.com/@Snowmanzzz
 
 (deprecated)http://zzz6519003.github.io
 
+https://www.codewars.com/users/zzz6519003
+
+https://www.hackerrank.com/Snowmanzzz
+
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzz6519003&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50&hide=JavaScript,css,Objective-C,html,m,c#,css,JavaScript,ruby "/>
 
-### Friend Link
+### Friend Link(friends needed XD)
 
 [iOS Battle King Casa](https://casatwy.com/communication_patterns.html)
+
 
 ### Glossary
 
