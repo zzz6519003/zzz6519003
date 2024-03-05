@@ -28,7 +28,7 @@ https://www.hackerrank.com/Snowmanzzz
 
 [iOS Battle King Casa](https://casatwy.com/communication_patterns.html)
 
-[丁神](https://wizmann.tk)
+[丁神](https://wizmann.top/)
 
 ### Glossary
 
